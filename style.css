@@ -6,26 +6,25 @@ nav ul{
     background-color: rgb(187, 144, 107);
     top: 0;
     width: 100%;
-  }
-  
-  nav ul li{
+}
+
+nav ul li{
     float: left;
     font-size: 1rem;
-  }
-  
-  nav li a{
+}
+
+nav li a{
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  
-  nav li:hover{
-    background-color: #4e406d;
-  }
-  
-  nav #active{
-    background-color: #ad8fb3;
-  }
-  
+}
+
+nav li:hover{
+    background-color: rgb(182, 135, 103);
+}
+
+nav #active{
+    background-color: #b3879f;
+}
