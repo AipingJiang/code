@@ -28,6 +28,7 @@ nav ul{
     background-color: rgb(187, 144, 107);
     top: 0;
     width: 100%;
+    position: fixed;
 }
 
 nav ul li{
