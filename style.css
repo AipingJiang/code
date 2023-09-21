@@ -3,6 +3,7 @@
     grid-template-columns: auto auto auto;
     gap: 10px;
     padding: center;
+    margin-top: 50px;
 }
 
 
@@ -17,6 +18,7 @@
 .grid{
     padding: 20px;
 }
+
 
 /*nav bar*/
 
@@ -34,6 +36,7 @@ nav ul{
 nav ul li{
     float: left;
     font-size: 1rem;
+
 }
 
 nav li a{
