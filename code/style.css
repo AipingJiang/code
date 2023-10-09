@@ -2,7 +2,14 @@ h1{
     margin-top: 50px;
 }
 
-
+/* cookie info grid */
+.cgrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: center;
+    margin-top: 5px;
+}
 
 .grid {
     display: grid;
@@ -11,7 +18,6 @@ h1{
     padding: center;
     margin-top: 50px;
 }
-
 
 
 .polaroid {
