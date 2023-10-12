@@ -1,5 +1,6 @@
 h1{
-    margin-top: 50px;
+    margin-top: 75px;
+    margin-bottom: none;
 }
 
 p{
@@ -32,7 +33,7 @@ body {
     grid-template-columns: auto auto auto;
     gap: 10px;
     padding: center;
-    margin-top: 50px;
+    margin-top: auto;
 }
 
 
