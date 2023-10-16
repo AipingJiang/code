@@ -3,6 +3,14 @@ h1{
     margin-bottom: none;
 }
 
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 25px;
+}
+
 p{
     font-size: 25px;
     grid-column-start: 2;
@@ -17,6 +25,10 @@ a {
 body {
     background-color: rgb(254, 248, 243);
     margin-left: 1%;
+}
+
+.recipe {
+    font-size: 18px;
 }
 
 /* cookie info grid */
