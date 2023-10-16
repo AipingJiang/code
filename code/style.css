@@ -25,6 +25,7 @@ a {
 body {
     background-color: rgb(254, 248, 243);
     margin-left: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .recipe {
